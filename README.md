@@ -2,7 +2,7 @@ This is a completely standalone sleep implementation for x86_64 Linux that depen
 
 I made it for my YouTube video which you can find here:
 
-<link here>
+https://www.youtube.com/watch?v=IbibjkI1kIs
 
 Sources:
 
