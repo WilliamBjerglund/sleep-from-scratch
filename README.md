@@ -1,3 +1,5 @@
+Note: I am attempting to make a basic version that works for windows also because i think it could be a fun way to learn more about C.
+
 This is a completely standalone sleep implementation for x86_64 Linux that depends only on the Linux kernel.
 
 I made it for my YouTube video which you can find here:
